@@ -1,0 +1,42 @@
+DAMI Tutorial 2, 25.04.19-26.04.19 
+
+++++
+
+Grades_lecture1.dat Grades_lecture2.dat
+
+Record of grades from an examination of lecture 1 and 2, ranging from 1 (very good) to 5 (failed)
+
+++++
+
+Music.dat
+
+Answers from a poll regarding personal music taste, in %
+
+++++
+
+AirlineSafety.csv
+
+Collection of airlines evaluated regarding their accidents and fatalities in the time interval year 1985- year 1999 and year 2000- year 2014.
+Additional information available: number of seats, total number of and kilometers flown per week
+
+Header information:
+
+airline,avail_seat_km_per_week,incidents_85_99,fatal_accidents_85_99,fatalities_85_99,incidents_00_14,fatal_accidents_00_14,fatalities_00_14
+
+Source: https://github.com/fivethirtyeight/data/blob/master/airline-safety/airline-safety.csv
+
+++++
+
+Data taken from a poll asking whether the Brexit was right or wrong in % 
+
+Source: https://yougov.co.uk/topics/brexit/all
+
+++++
+
+GenderPayGap_2015OECD.csv
+
+Deviation of wages for female employees with respect to wages for male employees in the year 
+
+Source: https://data.oecd.org/earnwage/gender-wage-gap.htm
+
+++++
